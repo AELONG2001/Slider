@@ -37,6 +37,20 @@ function renderSlider() {
 
 renderSlider()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Phần này là để xử lý logic cho slider nha mọi người
 let sliderMain = $('.banner__slider-list')
 const sliderItems = $$('.banner__slider-item');
 const dotItems = $$('.banner__slider-dots--item');
